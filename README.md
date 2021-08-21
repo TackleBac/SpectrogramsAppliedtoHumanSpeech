@@ -1,3 +1,3 @@
-# SpectrogramsOnHumanVoice
+# Spectrograms Applied to Human Speech
 
-A report touhing Spectrograms in relation to the Human Voice, for Final Year of  BEng (Hons) Software an Electronic Engineering at G.M.I.T
+A report touhing Spectrograms applied to Human Speech, for Final Year of  BEng (Hons) Software an Electronic Engineering at G.M.I.T
